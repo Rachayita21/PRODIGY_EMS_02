@@ -1,4 +1,4 @@
-# PRODIGY_EMS_02
+# PRODIGY_FSWD_01
 Develop a web application that allows
 administrators to perform CRUD
 (Create, Read, Update, Delete)
